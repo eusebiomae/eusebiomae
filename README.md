@@ -11,6 +11,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="eusebio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="eusebio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="eusebio-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="eusebio-stylus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" />          
   <img align="center" alt="silva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="eusebio-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="eusebio-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
@@ -22,7 +24,8 @@
  
 ### Tools, Database & Version Control:
 <div style="display: inline_block"><br>
-  <img align="center" alt="eusebio-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="eusebio-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
+  <img align="center" alt="eusebio-visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="eusebio-adobexd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
   <img align="center" alt="eusebio-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="eusebio-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
