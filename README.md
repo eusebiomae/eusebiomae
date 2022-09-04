@@ -7,7 +7,9 @@
  
 ### Main skills:
 <div style="display: inline_block"><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="ref" target:"_blank">
   <img align="center" alt="eusebio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
   <img align="center" alt="eusebio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="eusebio-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="eusebio-stylus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" />          
