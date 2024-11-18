@@ -29,7 +29,7 @@
     <img align="center" alt="eusebio-php" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
   </a>
   <a href="https://laravel.com/" class="ref" target="_blank">
-    <img align="center" alt="eusebio-laravel" height="30" width="40" src="https://icon-icons.com/pt/icone/laravel/135451" />
+    <img align="center" alt="eusebio-laravel" height="30" width="40" src="https://iconduck.com/icons/27594/laravel" />
   </a>
   <a href="https://vuejs.org/" class="ref" target="_blank">
     <img align="center" alt="eusebio-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" />
